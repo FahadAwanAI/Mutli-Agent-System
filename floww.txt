@@ -1,0 +1,5 @@
+1. Agents predict independently → LOCKED forever
+2. Debate EXPOSES why they disagree (claim-by-claim challenges)
+3. NO consensus needed - disagreement IS the content
+4. Later: Polymarket event resolves → System scores which AI was right
+5. Track accuracy over time → "Which AI is best at tech predictions?"
