@@ -34,3 +34,4 @@ pytest-mock==3.14.0
 # Code quality
 black==24.4.2
 flake8==7.0.0
+numpy>=1.26.0
